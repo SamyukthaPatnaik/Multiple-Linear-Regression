@@ -10,7 +10,7 @@ Age_08_04 -- Age in months as in August 2004
 Mfg_Month -- Manufacturing month (1-12)	
 Mfg_Year	-- Manufacturing Year
 KM -- Accumulated Kilometers on odometer
-Fuel_Type	-- Fuel Type (Petrol, Diesel, CNG)
+Fuel_Type-- Fuel Type (Petrol, Diesel, CNG)
 HP -- Horse Power
 Met_Color	-- Metallic Color?  (Yes=1, No=0)
 Color -- Color (Blue, Red, Grey, Silver, Black, etc.)
